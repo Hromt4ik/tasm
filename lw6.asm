@@ -44,6 +44,8 @@ endm
 
 .code
 
+;fdsjfuigdsyfgysdgftsd
+
 .486
 main:
 	mov ax, @data
